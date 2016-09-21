@@ -1,0 +1,6 @@
+.idea/
+.python-version
+*.pyc
+__pycache__
+outputs/
+*.bz2

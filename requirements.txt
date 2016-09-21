@@ -1,0 +1,5 @@
+bz2file==0.98
+gensim==0.13.1
+mecab-python3==0.7
+polyglot==16.7.4
+pycld2==0.31
